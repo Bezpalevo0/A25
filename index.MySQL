@@ -1,0 +1,7 @@
+TRUNCATE TABLE MyGuests;
+INSERT INTO MyGuests VALUES(NULL, 'John', 'Doe', 'New York', 'Broadway', 123);
+INSERT INTO MyGuests VALUES(NULL, 'Alice', 'Johnson', 'Los Angeles', 'Sunset Blvd', 456);
+INSERT INTO MyGuests VALUES(NULL, 'Michael', 'Brown', 'Chicago', 'Main St', 789);
+INSERT INTO MyGuests VALUES(NULL, 'Emily', 'Davis', 'Houston', 'Oak St', 101);
+INSERT INTO MyGuests VALUES(NULL, 'William', 'Miller', 'San Francisco', 'Market St', 1112);
+INSERT INTO MyGuests VALUES(NULL, 'Sophia', 'Wilson', 'Miami', 'Ocean Dr', 1314);
